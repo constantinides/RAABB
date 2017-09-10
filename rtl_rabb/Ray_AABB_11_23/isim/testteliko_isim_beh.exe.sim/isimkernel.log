@@ -1,0 +1,29 @@
+Command line:
+   testteliko_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  54162
+
+Wed Sep 06 20:43:24 2017
+
+
+ Elaboration Time: 1.75 sec
+
+ Current Memory Usage: 1634.8 Meg
+
+ Total Signals          : 9491
+ Total Nets             : 89440
+ Total Signal Drivers   : 8220
+ Total Blocks           : 290
+ Total Primitive Blocks : 198
+ Total Processes        : 5287
+ Total Traceable Variables  : 446
+ Total Scalar Nets and Variables : 7989120
+Total Line Count : 8987
+
+ Total Simulation Time: 3.79688 sec
+
+ Current Memory Usage: 1634.8 Meg
+
+Wed Sep 06 20:43:28 2017
+

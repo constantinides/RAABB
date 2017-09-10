@@ -1,0 +1,29 @@
+Command line:
+   Ray_AABB_11_23_tb_isim_translate.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  56659
+
+Mon Aug 14 14:08:58 2017
+
+
+ Elaboration Time: 41.5938 sec
+
+ Current Memory Usage: 3475.22 Meg
+
+ Total Signals          : 778636
+ Total Nets             : 519105
+ Total Signal Drivers   : 473940
+ Total Blocks           : 81341
+ Total Primitive Blocks : 47865
+ Total Processes        : 648580
+ Total Traceable Variables  : 189117
+ Total Scalar Nets and Variables : 4540236
+Total Line Count : 475437
+
+ Total Simulation Time: 45.5156 sec
+
+ Current Memory Usage: 3491.8 Meg
+
+Mon Aug 14 14:09:47 2017
+

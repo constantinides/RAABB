@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_23/tb_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="numeric_std" />
+            <top_module name="std_logic_1164" />
+            <top_module name="std_logic_arith" />
+            <top_module name="std_logic_unsigned" />
+            <top_module name="tb" />
+            <top_module name="textio" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="29" />
+   <wvobject fp_name="/tb/hit_miss" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">hit_miss</obj_property>
+      <obj_property name="ObjectShortName">hit_miss</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/yes" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">yes</obj_property>
+      <obj_property name="ObjectShortName">yes</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/rst" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/x0" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">x0[36:0]</obj_property>
+      <obj_property name="ObjectShortName">x0[36:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/x0UP" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">x0UP[36:0]</obj_property>
+      <obj_property name="ObjectShortName">x0UP[36:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/subX1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">subX1[36:0]</obj_property>
+      <obj_property name="ObjectShortName">subX1[36:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/subX1toMul" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">subX1toMul[36:0]</obj_property>
+      <obj_property name="ObjectShortName">subX1toMul[36:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/subX1_divxUP_rndd" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">subX1_divxUP_rndd[36:0]</obj_property>
+      <obj_property name="ObjectShortName">subX1_divxUP_rndd[36:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/subX2_divxUP_1_rndu" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">subX2_divxUP_1_rndu[36:0]</obj_property>
+      <obj_property name="ObjectShortName">subX2_divxUP_1_rndu[36:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/txmax" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">txmax[36:0]</obj_property>
+      <obj_property name="ObjectShortName">txmax[36:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/tfar_sign_8" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">tfar_sign_8[36:34]</obj_property>
+      <obj_property name="ObjectShortName">tfar_sign_8[36:34]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/xmin" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">xmin</obj_property>
+      <obj_property name="ObjectShortName">xmin</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/ymin" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ymin</obj_property>
+      <obj_property name="ObjectShortName">ymin</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/zmin" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">zmin</obj_property>
+      <obj_property name="ObjectShortName">zmin</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/xmax" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">xmax</obj_property>
+      <obj_property name="ObjectShortName">xmax</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/ymax" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ymax</obj_property>
+      <obj_property name="ObjectShortName">ymax</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/zmax" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">zmax</obj_property>
+      <obj_property name="ObjectShortName">zmax</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/opposite1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">opposite1</obj_property>
+      <obj_property name="ObjectShortName">opposite1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/opposite2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">opposite2</obj_property>
+      <obj_property name="ObjectShortName">opposite2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/tfar" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">tfar[36:0]</obj_property>
+      <obj_property name="ObjectShortName">tfar[36:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/tnear" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">tnear[36:0]</obj_property>
+      <obj_property name="ObjectShortName">tnear[36:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/divx" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">divx[36:0]</obj_property>
+      <obj_property name="ObjectShortName">divx[36:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/divxUP" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">divxUP[36:0]</obj_property>
+      <obj_property name="ObjectShortName">divxUP[36:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/divxUP_8" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">divxUP_8[36:0]</obj_property>
+      <obj_property name="ObjectShortName">divxUP_8[36:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/sdivx_3" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">sdivx_3[36:34]</obj_property>
+      <obj_property name="ObjectShortName">sdivx_3[36:34]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/x" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">x</obj_property>
+      <obj_property name="ObjectShortName">x</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/y" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">y</obj_property>
+      <obj_property name="ObjectShortName">y</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/z" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">z</obj_property>
+      <obj_property name="ObjectShortName">z</obj_property>
+   </wvobject>
+</wave_config>

@@ -1,0 +1,281 @@
+ISim log file
+Running: C:\Users\George\Dropbox\Imperial_College_London\Thesis\RTL\flopoco\Ray_AABB_11_13\Ray_AABB_11_13_tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_13/Ray_AABB_11_13_tb_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+----------------------------------------------------------------------
+INFO:Security:61 - The XILINXD_LICENSE_FILE environment variable is not set.
+INFO:Security:63 - The LM_LICENSE_FILE environment variable is not set.
+INFO:Security:68 - For more information or for assistance in obtaining 
+ a license, please run the Xilinx License Configuration Manager
+       (xlcm or "Manage Xilinx Licenses".)
+INFO:Security:68a - user is George, on host DESKTOP-T6F7S0V.
+ERROR:Security:14 - No feature was available for 'ISIM'.
+
+No such feature exists.
+Feature:       ISIM
+License path:  C:/.Xilinx\Xilinx.lic;C:\Xilinx\14.7\ISE_DS\ISE\/coregen/core_licenses\Xilinx.lic;C:\Xilinx\14.7\ISE_DS\ISE\/coregen/core_licenses\XilinxFree.lic;C:\Xilinx\14.7\ISE_DS\EDK/data/core_licenses\Xilinx.lic;
+FLEXnet Licensing error:-5,357
+For further information, refer to the FLEXnet Licensing documentation,
+available at "www.flexerasoftware.com".
+----------------------------------------------------------------------
+WARNING: A full ISim License cannot be checked out due to the issues listed above. Please use Xilinx License Configuration Manager to fix these issues in order to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAddX0LOW/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAddX0LOW/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAddX0LOW/roundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAddY0LOW/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAddY0LOW/roundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAddZ0LOW/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAddZ0LOW/roundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAddX1LOW/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAddX1LOW/roundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAddY1LOW/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAddY1LOW/roundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAddZ1LOW/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAddZ1LOW/roundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAdddivxLOW/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAdddivxLOW/roundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAdddivyLOW/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAdddivyLOW/roundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAdddivzLOW/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAdddivzLOW/roundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAddX0UP/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAddX0UP/roundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAddZ0UP/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAddZ0UP/roundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAddY0UP/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAddY0UP/roundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAddX2UP/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAddX2UP/roundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAddY2UP/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAddY2UP/roundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAddZ2UP/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAddZ2UP/roundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAdddivxUP/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAdddivxUP/roundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAdddivyUP/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAdddivyUP/roundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAdddivzUP/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAdddivzUP/roundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPsubX1/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPsubX1/roundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPsubX2/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPsubX2/roundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPsubY1/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPsubY1/roundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPsubY2/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPsubY2/roundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPsubZ1/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPsubZ1/roundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPsubZ2/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPsubZ2/roundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPsubX2_divxUP_rndu/RoundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPsubX2_divxUP_rndd/RoundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPsubX2_divxLOW/RoundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPsubX1_divxLOW_rndu/RoundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPsubX1_divxLOW_rndd/RoundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPsubX1_divxUP/RoundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPsubY2_divyUP_rndu/RoundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPsubY2_divyUP_rndd/RoundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPsubY2_divyLOW/RoundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPsubY1_divyLOW_rndu/RoundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPsubY1_divyLOW_rndd/RoundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPsubY1_divyUP/RoundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPsubZ2_divzUP_rndu/RoundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPsubZ2_divzUP_rndd/RoundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPsubZ2_divzLOW/RoundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPsubZ1_divzLOW_rndu/RoundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPsubZ1_divzLOW_rndd/RoundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPsubZ1_divzUP/RoundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/lessX0_X1/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/lessX0_X1/FPsub/roundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/gre_thanX/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/gre_thanX/FPsub/roundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/lessY0_Y1/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/lessY0_Y1/FPsub/roundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/gre_thanY/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/gre_thanY/FPsub/roundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/lessZ0_Z1/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/lessZ0_Z1/FPsub/roundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/gre_thanZ/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/gre_thanZ/FPsub/roundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/gre_than_tymin_txmin/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/gre_than_tymin_txmin/FPsub/roundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/gre_than_tzmin_tymin/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/gre_than_tzmin_tymin/FPsub/roundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/gre_than_txmin_tzmin/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/gre_than_txmin_tzmin/FPsub/roundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/gre_or_eq_txmin_tymin/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/gre_or_eq_txmin_tymin/FPsub/roundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/less_than_tymax_txmax/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/less_than_tymax_txmax/FPsub/roundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/less_than_tzmax_tymax/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/less_than_tzmax_tymax/FPsub/roundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/less_than_txmax_tzmax/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/less_than_txmax_tzmax/FPsub/roundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/less_or_eq_txmax_tymax/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/less_or_eq_txmax_tymax/FPsub/roundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/gre_or_eq_tfar_tnear/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/gre_or_eq_tfar_tnear/FPsub/roundingAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+Finished circuit initialization process.
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAddX0LOW/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAddY0LOW/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAddZ0LOW/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAddX1LOW/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAddY1LOW/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAddZ1LOW/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAdddivxLOW/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAdddivyLOW/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAdddivzLOW/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAddX0UP/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAddZ0UP/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAddY0UP/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAddX2UP/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAddY2UP/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAddZ2UP/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAdddivxUP/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAdddivyUP/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPAdddivzUP/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPsubX1/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPsubX2/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPsubY1/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPsubY2/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPsubZ1/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/FPsubZ2/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/lessX0_X1/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/gre_thanX/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/lessY0_Y1/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/gre_thanY/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/lessZ0_Z1/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/gre_thanZ/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/gre_than_tymin_txmin/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/gre_than_tzmin_tymin/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/gre_than_txmin_tzmin/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/gre_or_eq_txmin_tymin/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/less_than_tymax_txmax/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/less_than_tzmax_tymax/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/less_than_txmax_tzmax/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/less_or_eq_txmax_tymax/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /Ray_AABB_11_13_tb/uut/gre_or_eq_tfar_tnear/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 5676 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPAddX0LOW/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 5676 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPAddY0LOW/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 5676 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPAddZ0LOW/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 5676 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPAddX1LOW/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 5676 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPAddY1LOW/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 5676 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPAddZ1LOW/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 5676 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPAdddivxLOW/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 5676 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPAdddivyLOW/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 5676 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPAdddivzLOW/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 5676 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPAddX0UP/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 5676 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPAddZ0UP/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 5676 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPAddY0UP/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 5676 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPAddX2UP/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 5676 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPAddY2UP/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 5676 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPAddZ2UP/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 5676 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPAdddivxUP/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 5676 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPAdddivyUP/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 5676 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPAdddivzUP/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 5676 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPsubX1/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 5676 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPsubX2/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 5676 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPsubY1/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 5676 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPsubY2/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 5676 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPsubZ1/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 5676 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPsubZ2/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 5676 ps(4), Instance /Ray_AABB_11_13_tb/uut/lessX0_X1/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 5676 ps(4), Instance /Ray_AABB_11_13_tb/uut/gre_thanX/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 5676 ps(4), Instance /Ray_AABB_11_13_tb/uut/lessY0_Y1/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 5676 ps(4), Instance /Ray_AABB_11_13_tb/uut/gre_thanY/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 5676 ps(4), Instance /Ray_AABB_11_13_tb/uut/lessZ0_Z1/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 5676 ps(4), Instance /Ray_AABB_11_13_tb/uut/gre_thanZ/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 5676 ps(4), Instance /Ray_AABB_11_13_tb/uut/gre_than_tymin_txmin/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 5676 ps(4), Instance /Ray_AABB_11_13_tb/uut/gre_than_tzmin_tymin/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 5676 ps(4), Instance /Ray_AABB_11_13_tb/uut/gre_than_txmin_tzmin/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 5676 ps(4), Instance /Ray_AABB_11_13_tb/uut/gre_or_eq_txmin_tymin/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 5676 ps(4), Instance /Ray_AABB_11_13_tb/uut/less_than_tymax_txmax/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 5676 ps(4), Instance /Ray_AABB_11_13_tb/uut/less_than_tzmax_tymax/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 5676 ps(4), Instance /Ray_AABB_11_13_tb/uut/less_than_txmax_tzmax/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 5676 ps(4), Instance /Ray_AABB_11_13_tb/uut/less_or_eq_txmax_tymax/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 5676 ps(4), Instance /Ray_AABB_11_13_tb/uut/gre_or_eq_tfar_tnear/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(3), Instance /Ray_AABB_11_13_tb/uut/FPAddX0LOW/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(3), Instance /Ray_AABB_11_13_tb/uut/FPAddY0LOW/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(3), Instance /Ray_AABB_11_13_tb/uut/FPAddZ0LOW/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(3), Instance /Ray_AABB_11_13_tb/uut/FPAddX1LOW/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(3), Instance /Ray_AABB_11_13_tb/uut/FPAddY1LOW/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(3), Instance /Ray_AABB_11_13_tb/uut/FPAddZ1LOW/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(3), Instance /Ray_AABB_11_13_tb/uut/FPAdddivxLOW/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(3), Instance /Ray_AABB_11_13_tb/uut/FPAdddivyLOW/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(3), Instance /Ray_AABB_11_13_tb/uut/FPAdddivzLOW/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(3), Instance /Ray_AABB_11_13_tb/uut/FPAddX0UP/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(3), Instance /Ray_AABB_11_13_tb/uut/FPAddZ0UP/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(3), Instance /Ray_AABB_11_13_tb/uut/FPAddY0UP/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(3), Instance /Ray_AABB_11_13_tb/uut/FPAddX2UP/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(3), Instance /Ray_AABB_11_13_tb/uut/FPAddY2UP/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(3), Instance /Ray_AABB_11_13_tb/uut/FPAddZ2UP/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(3), Instance /Ray_AABB_11_13_tb/uut/FPAdddivxUP/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(3), Instance /Ray_AABB_11_13_tb/uut/FPAdddivyUP/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(3), Instance /Ray_AABB_11_13_tb/uut/FPAdddivzUP/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(3), Instance /Ray_AABB_11_13_tb/uut/FPsubX1/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(3), Instance /Ray_AABB_11_13_tb/uut/FPsubX2/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(3), Instance /Ray_AABB_11_13_tb/uut/FPsubY1/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(3), Instance /Ray_AABB_11_13_tb/uut/FPsubY2/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(3), Instance /Ray_AABB_11_13_tb/uut/FPsubZ1/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(3), Instance /Ray_AABB_11_13_tb/uut/FPsubZ2/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(3), Instance /Ray_AABB_11_13_tb/uut/lessX0_X1/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(3), Instance /Ray_AABB_11_13_tb/uut/gre_thanX/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(3), Instance /Ray_AABB_11_13_tb/uut/lessY0_Y1/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(3), Instance /Ray_AABB_11_13_tb/uut/gre_thanY/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(3), Instance /Ray_AABB_11_13_tb/uut/lessZ0_Z1/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(3), Instance /Ray_AABB_11_13_tb/uut/gre_thanZ/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(3), Instance /Ray_AABB_11_13_tb/uut/gre_than_tymin_txmin/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(3), Instance /Ray_AABB_11_13_tb/uut/gre_than_tzmin_tymin/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(3), Instance /Ray_AABB_11_13_tb/uut/gre_than_txmin_tzmin/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(3), Instance /Ray_AABB_11_13_tb/uut/gre_or_eq_txmin_tymin/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(3), Instance /Ray_AABB_11_13_tb/uut/less_than_tymax_txmax/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(3), Instance /Ray_AABB_11_13_tb/uut/less_than_tzmax_tymax/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(3), Instance /Ray_AABB_11_13_tb/uut/less_than_txmax_tzmax/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(3), Instance /Ray_AABB_11_13_tb/uut/less_or_eq_txmax_tymax/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(3), Instance /Ray_AABB_11_13_tb/uut/gre_or_eq_tfar_tnear/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPAddX0LOW/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPAddY0LOW/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPAddZ0LOW/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPAddX1LOW/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPAddY1LOW/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPAddZ1LOW/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPAdddivxLOW/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPAdddivyLOW/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPAdddivzLOW/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPAddX0UP/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPAddZ0UP/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPAddY0UP/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPAddX2UP/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPAddY2UP/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPAddZ2UP/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPAdddivxUP/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPAdddivyUP/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPAdddivzUP/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPsubX1/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPsubX2/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPsubY1/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPsubY2/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPsubZ1/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(4), Instance /Ray_AABB_11_13_tb/uut/FPsubZ2/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(4), Instance /Ray_AABB_11_13_tb/uut/lessX0_X1/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(4), Instance /Ray_AABB_11_13_tb/uut/gre_thanX/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(4), Instance /Ray_AABB_11_13_tb/uut/lessY0_Y1/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(4), Instance /Ray_AABB_11_13_tb/uut/gre_thanY/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(4), Instance /Ray_AABB_11_13_tb/uut/lessZ0_Z1/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(4), Instance /Ray_AABB_11_13_tb/uut/gre_thanZ/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(4), Instance /Ray_AABB_11_13_tb/uut/gre_than_tymin_txmin/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(4), Instance /Ray_AABB_11_13_tb/uut/gre_than_tzmin_tymin/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(4), Instance /Ray_AABB_11_13_tb/uut/gre_than_txmin_tzmin/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(4), Instance /Ray_AABB_11_13_tb/uut/gre_or_eq_txmin_tymin/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(4), Instance /Ray_AABB_11_13_tb/uut/less_than_tymax_txmax/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(4), Instance /Ray_AABB_11_13_tb/uut/less_than_tzmax_tymax/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(4), Instance /Ray_AABB_11_13_tb/uut/less_than_txmax_tzmax/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(4), Instance /Ray_AABB_11_13_tb/uut/less_or_eq_txmax_tymax/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 9460 ps(4), Instance /Ray_AABB_11_13_tb/uut/gre_or_eq_tfar_tnear/FPsub/fracAdder/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).

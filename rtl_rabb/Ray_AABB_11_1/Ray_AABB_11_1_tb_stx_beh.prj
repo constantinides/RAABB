@@ -1,0 +1,7 @@
+verilog isim_temp "less_than.v"
+verilog isim_temp "less_or_equal.v"
+verilog isim_temp "greater_than.v"
+verilog isim_temp "greater_or_equal.v"
+verilog isim_temp "Ray_AABB.v"
+verilog isim_temp "Ray_AABB_11_1_tb.v"
+verilog isim_temp "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

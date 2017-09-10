@@ -1,0 +1,29 @@
+Command line:
+   Ray_AABB_11_5_isim_beh.exe
+     -simmode  gui
+     -simrunnum  1
+     -socket  49356
+
+Fri Aug 18 03:16:49 2017
+
+
+ Elaboration Time: 1.75 sec
+
+ Current Memory Usage: 1419.66 Meg
+
+ Total Signals          : 8509
+ Total Nets             : 43603
+ Total Signal Drivers   : 6772
+ Total Blocks           : 415
+ Total Primitive Blocks : 324
+ Total Processes        : 5041
+ Total Traceable Variables  : 370
+ Total Scalar Nets and Variables : 46633
+Total Line Count : 7785
+
+ Total Simulation Time: 1.96875 sec
+
+ Current Memory Usage: 1419.66 Meg
+
+Fri Aug 18 03:16:55 2017
+

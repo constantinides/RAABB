@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_20/Ray_AABB_11_20.xst" -ofn "C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_20/Ray_AABB_11_20.syr" 

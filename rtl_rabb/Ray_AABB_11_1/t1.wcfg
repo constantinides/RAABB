@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_1/Ray_AABB_11_1_tb_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="Ray_AABB_11_1_tb" />
+            <top_module name="glbl" />
+            <top_module name="numeric_std" />
+            <top_module name="std_logic_1164" />
+            <top_module name="std_logic_arith" />
+            <top_module name="std_logic_unsigned" />
+            <top_module name="textio" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="27" />
+   <wvobject fp_name="/Ray_AABB_11_1_tb/hit_miss" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">hit_miss</obj_property>
+      <obj_property name="ObjectShortName">hit_miss</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_1_tb/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_1_tb/rst" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_1_tb/x0" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">x0[14:0]</obj_property>
+      <obj_property name="ObjectShortName">x0[14:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_1_tb/y0" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">y0[14:0]</obj_property>
+      <obj_property name="ObjectShortName">y0[14:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_1_tb/z0" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">z0[14:0]</obj_property>
+      <obj_property name="ObjectShortName">z0[14:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_1_tb/x1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">x1[14:0]</obj_property>
+      <obj_property name="ObjectShortName">x1[14:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_1_tb/y1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">y1[14:0]</obj_property>
+      <obj_property name="ObjectShortName">y1[14:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_1_tb/z1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">z1[14:0]</obj_property>
+      <obj_property name="ObjectShortName">z1[14:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_1_tb/x2" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">x2[14:0]</obj_property>
+      <obj_property name="ObjectShortName">x2[14:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_1_tb/y2" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">y2[14:0]</obj_property>
+      <obj_property name="ObjectShortName">y2[14:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_1_tb/z2" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">z2[14:0]</obj_property>
+      <obj_property name="ObjectShortName">z2[14:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_1_tb/x" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">x</obj_property>
+      <obj_property name="ObjectShortName">x</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_1_tb/y" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">y</obj_property>
+      <obj_property name="ObjectShortName">y</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_1_tb/z" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">z</obj_property>
+      <obj_property name="ObjectShortName">z</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_1_tb/divx" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">divx[14:0]</obj_property>
+      <obj_property name="ObjectShortName">divx[14:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_1_tb/divy" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">divy[14:0]</obj_property>
+      <obj_property name="ObjectShortName">divy[14:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_1_tb/divz" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">divz[14:0]</obj_property>
+      <obj_property name="ObjectShortName">divz[14:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_1_tb/HighPrecRes" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">HighPrecRes[0:9999]</obj_property>
+      <obj_property name="ObjectShortName">HighPrecRes[0:9999]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_1_tb/direction" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">direction[0:29999]</obj_property>
+      <obj_property name="ObjectShortName">direction[0:29999]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_1_tb/i" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">i[16:0]</obj_property>
+      <obj_property name="ObjectShortName">i[16:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_1_tb/j" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">j[15:0]</obj_property>
+      <obj_property name="ObjectShortName">j[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_1_tb/k" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">k[15:0]</obj_property>
+      <obj_property name="ObjectShortName">k[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_1_tb/resHighPrec" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">resHighPrec</obj_property>
+      <obj_property name="ObjectShortName">resHighPrec</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_1_tb/en" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">en[15:0]</obj_property>
+      <obj_property name="ObjectShortName">en[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_1_tb/Type1error" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">Type1error[9:0]</obj_property>
+      <obj_property name="ObjectShortName">Type1error[9:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_1_tb/Type2error" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">Type2error[9:0]</obj_property>
+      <obj_property name="ObjectShortName">Type2error[9:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+</wave_config>

@@ -1,0 +1,37 @@
+Release 14.7 ngdbuild P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+Command Line: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\ngdbuild.exe
+-intstyle ise -dd _ngo -nt timestamp -i -p xc7z020-clg484-3 Ray_AABB_11_23.ngc
+Ray_AABB_11_23.ngd
+
+Reading NGO file
+"C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_
+23/Ray_AABB_11_23.ngc" ...
+Gathering constraint information from source properties...
+Done.
+
+Resolving constraint associations...
+Checking Constraint Associations...
+Done...
+
+Checking expanded design ...
+
+Partition Implementation Status
+-------------------------------
+
+  No Partitions were found in this design.
+
+-------------------------------
+
+NGDBUILD Design Results Summary:
+  Number of errors:     0
+  Number of warnings:   0
+
+Total memory usage is 357132 kilobytes
+
+Writing NGD file "Ray_AABB_11_23.ngd" ...
+Total REAL time to NGDBUILD completion:  41 sec
+Total CPU time to NGDBUILD completion:   40 sec
+
+Writing NGDBUILD log file "Ray_AABB_11_23.bld"...

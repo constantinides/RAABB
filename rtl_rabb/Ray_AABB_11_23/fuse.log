@@ -1,0 +1,74 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_23/testteliko_isim_beh.exe -prj C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_23/testteliko_beh.prj work.testteliko work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_23/less_than.v" into library work
+Analyzing Verilog file "C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_23/less_or_equal.v" into library work
+Analyzing Verilog file "C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_23/greater_than.v" into library work
+Analyzing Verilog file "C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_23/greater_or_equal.v" into library work
+Analyzing Verilog file "C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_23/Ray_AABB.v" into library work
+Analyzing Verilog file "C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_23/testteliko.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Parsing VHDL file "C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_23/FPSub11_23.vhdl" into library work
+Parsing VHDL file "C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_23/FPSub11_23_rndu.vhdl" into library work
+Parsing VHDL file "C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_23/FPSub11_23_rndd.vhdl" into library work
+Parsing VHDL file "C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_23/FPMult11_23_rndu.vhdl" into library work
+Parsing VHDL file "C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_23/FPMult11_23_rndd.vhdl" into library work
+Parsing VHDL file "C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_23/FPADD11_23_rndu.vhdl" into library work
+Parsing VHDL file "C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_23/FPADD11_23_rndd.vhdl" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module less_than
+Compiling module greater_than
+Compiling module greater_or_equal
+Compiling module less_or_equal
+Compiling module Ray_AABB_11_23
+Compiling module testteliko
+Compiling module glbl
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling package textio
+Compiling architecture arch of entity RightShifter_24_by_max_26_F400_uid4_rndda [rightshifter_24_by_max_26_f400_u...]
+Compiling architecture arch of entity IntAdder_27_f400_uid8_rndda [intadder_27_f400_uid8_rndda_defa...]
+Compiling architecture arch of entity LZCShifter_28_to_28_counting_32_F400_uid16_rndda [lzcshifter_28_to_28_counting_32_...]
+Compiling architecture arch of entity IntAdder_37_f400_uid20_rndda [intadder_37_f400_uid20_rndda_def...]
+Compiling architecture arch of entity FPAdd_11_23_F400_uid2_rndd [fpadd_11_23_f400_uid2_rndd_defau...]
+Compiling architecture arch of entity RightShifter_24_by_max_26_F400_uid4_rndua [rightshifter_24_by_max_26_f400_u...]
+Compiling architecture arch of entity IntAdder_27_f400_uid8_rndua [intadder_27_f400_uid8_rndua_defa...]
+Compiling architecture arch of entity LZCShifter_28_to_28_counting_32_F400_uid16_rndua [lzcshifter_28_to_28_counting_32_...]
+Compiling architecture arch of entity IntAdder_37_f400_uid20_rndua [intadder_37_f400_uid20_rndua_def...]
+Compiling architecture arch of entity FPAdd_11_23_F400_uid2_rndu [fpadd_11_23_f400_uid2_rndu_defau...]
+Compiling architecture arch of entity RightShifter_24_by_max_26_F400_uid4_rndd [rightshifter_24_by_max_26_f400_u...]
+Compiling architecture arch of entity IntAdder_27_f400_uid8_rndd [intadder_27_f400_uid8_rndd_defau...]
+Compiling architecture arch of entity LZCShifter_28_to_28_counting_32_F400_uid16_rndd [lzcshifter_28_to_28_counting_32_...]
+Compiling architecture arch of entity IntAdder_37_f400_uid20_rndd [intadder_37_f400_uid20_rndd_defa...]
+Compiling architecture arch of entity FPSub_11_23_F400_uid2_rndd [fpsub_11_23_f400_uid2_rndd_defau...]
+Compiling architecture arch of entity RightShifter_24_by_max_26_F400_uid4_rndu [rightshifter_24_by_max_26_f400_u...]
+Compiling architecture arch of entity IntAdder_27_f400_uid8_rndu [intadder_27_f400_uid8_rndu_defau...]
+Compiling architecture arch of entity LZCShifter_28_to_28_counting_32_F400_uid16_rndu [lzcshifter_28_to_28_counting_32_...]
+Compiling architecture arch of entity IntAdder_37_f400_uid20_rndu [intadder_37_f400_uid20_rndu_defa...]
+Compiling architecture arch of entity FPSub_11_23_F400_uid2_rndu [fpsub_11_23_f400_uid2_rndu_defau...]
+Compiling package numeric_std
+Compiling architecture arch of entity IntAdder_42_f400_uid15_rndu [intadder_42_f400_uid15_rndu_defa...]
+Compiling architecture arch of entity IntMultiplier_UsingDSP_24_24_48_unsigned_F400_uid4_rndu [intmultiplier_usingdsp_24_24_48_...]
+Compiling architecture arch of entity IntAdder_36_f400_uid25_rndu [intadder_36_f400_uid25_rndu_defa...]
+Compiling architecture arch of entity FPMult_11_23_F400_uid2_rndu [fpmult_11_23_f400_uid2_rndu_defa...]
+Compiling architecture arch of entity IntAdder_42_f400_uid15 [intadder_42_f400_uid15_default]
+Compiling architecture arch of entity IntMultiplier_UsingDSP_24_24_48_unsigned_F400_uid4 [intmultiplier_usingdsp_24_24_48_...]
+Compiling architecture arch of entity IntAdder_36_f400_uid25 [intadder_36_f400_uid25_default]
+Compiling architecture arch of entity FPMult_11_23_F400_uid2_rndd [fpmult_11_23_f400_uid2_rndd_defa...]
+Compiling architecture arch of entity RightShifter_24_by_max_26_F400_uid4 [rightshifter_24_by_max_26_f400_u...]
+Compiling architecture arch of entity IntAdder_27_f400_uid8 [intadder_27_f400_uid8_default]
+Compiling architecture arch of entity LZCShifter_28_to_28_counting_32_F400_uid16 [lzcshifter_28_to_28_counting_32_...]
+Compiling architecture arch of entity IntAdder_37_f400_uid20 [intadder_37_f400_uid20_default]
+Compiling architecture arch of entity FPSub_11_23_F400_uid2 [fpsub_11_23_f400_uid2_default]
+Time Resolution for simulation is 1ps.
+WARNING:Simulator - Unable to copy libPortabilityNOSH.dll to the simulation executable directory: boost::filesystem::copy_file: The system cannot find the path specified, "isim\testteliko_isim_beh.exe.sim\libPortability.dll".
+Compiled 72 VHDL Units
+Compiled 7 Verilog Units
+Built simulation executable C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_23/testteliko_isim_beh.exe
+Fuse Memory Usage: 44044 KB
+Fuse CPU Usage: 3655 ms

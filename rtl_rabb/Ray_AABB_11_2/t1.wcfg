@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_2/Ray_AABB_11_2tb_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="Ray_AABB_11_2tb" />
+            <top_module name="glbl" />
+            <top_module name="numeric_std" />
+            <top_module name="std_logic_1164" />
+            <top_module name="std_logic_arith" />
+            <top_module name="std_logic_unsigned" />
+            <top_module name="textio" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="46" />
+   <wvobject fp_name="/Ray_AABB_11_2tb/hit_miss" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">hit_miss</obj_property>
+      <obj_property name="ObjectShortName">hit_miss</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_2tb/uut/yes" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">yes</obj_property>
+      <obj_property name="ObjectShortName">yes</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_2tb/uut/xdir_28" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">xdir_28</obj_property>
+      <obj_property name="ObjectShortName">xdir_28</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_2tb/uut/xp2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">xp2</obj_property>
+      <obj_property name="ObjectShortName">xp2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_2tb/uut/xp2_17" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">xp2_17</obj_property>
+      <obj_property name="ObjectShortName">xp2_17</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_2tb/uut/ydir_28" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ydir_28</obj_property>
+      <obj_property name="ObjectShortName">ydir_28</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_2tb/uut/yp2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">yp2</obj_property>
+      <obj_property name="ObjectShortName">yp2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_2tb/uut/yp2_17" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">yp2_17</obj_property>
+      <obj_property name="ObjectShortName">yp2_17</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_2tb/uut/zdir_28" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">zdir_28</obj_property>
+      <obj_property name="ObjectShortName">zdir_28</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_2tb/uut/zp2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">zp2</obj_property>
+      <obj_property name="ObjectShortName">zp2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_2tb/uut/zp2_17" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">zp2_17</obj_property>
+      <obj_property name="ObjectShortName">zp2_17</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_2tb/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_2tb/rst" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_2tb/x0UP" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">x0UP[15:0]</obj_property>
+      <obj_property name="ObjectShortName">x0UP[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_2tb/uut/x0UP1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">x0UP1[15:0]</obj_property>
+      <obj_property name="ObjectShortName">x0UP1[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_2tb/uut/subX1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">subX1[15:0]</obj_property>
+      <obj_property name="ObjectShortName">subX1[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_2tb/uut/subX1toMul" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">subX1toMul[15:0]</obj_property>
+      <obj_property name="ObjectShortName">subX1toMul[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_2tb/uut/divxLOW_11" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">divxLOW_11[15:0]</obj_property>
+      <obj_property name="ObjectShortName">divxLOW_11[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_2tb/uut/subX1_divxUP_rndd" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">subX1_divxUP_rndd[15:0]</obj_property>
+      <obj_property name="ObjectShortName">subX1_divxUP_rndd[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_2tb/uut/sdivx_3" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">sdivx_3[15:13]</obj_property>
+      <obj_property name="ObjectShortName">sdivx_3[15:13]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_2tb/uut/subX1_sign_3" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">subX1_sign_3[15:13]</obj_property>
+      <obj_property name="ObjectShortName">subX1_sign_3[15:13]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_2tb/uut/subX1_divxUP_1_rndd" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">subX1_divxUP_1_rndd[15:0]</obj_property>
+      <obj_property name="ObjectShortName">subX1_divxUP_1_rndd[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_2tb/uut/txmax" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">txmax[15:0]</obj_property>
+      <obj_property name="ObjectShortName">txmax[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_2tb/uut/txmax_1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">txmax_1[15:0]</obj_property>
+      <obj_property name="ObjectShortName">txmax_1[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_2tb/uut/txmax_2" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">txmax_2[15:0]</obj_property>
+      <obj_property name="ObjectShortName">txmax_2[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_2tb/uut/txmax_3" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">txmax_3[15:0]</obj_property>
+      <obj_property name="ObjectShortName">txmax_3[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_2tb/uut/txmax_4" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">txmax_4[15:0]</obj_property>
+      <obj_property name="ObjectShortName">txmax_4[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_2tb/uut/txmax_5" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">txmax_5[15:0]</obj_property>
+      <obj_property name="ObjectShortName">txmax_5[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_2tb/uut/txmax_6" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">txmax_6[15:0]</obj_property>
+      <obj_property name="ObjectShortName">txmax_6[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_2tb/uut/txmax_7" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">txmax_7[15:0]</obj_property>
+      <obj_property name="ObjectShortName">txmax_7[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_2tb/uut/xmin" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">xmin</obj_property>
+      <obj_property name="ObjectShortName">xmin</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_2tb/uut/ymin" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ymin</obj_property>
+      <obj_property name="ObjectShortName">ymin</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_2tb/uut/zmin" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">zmin</obj_property>
+      <obj_property name="ObjectShortName">zmin</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_2tb/uut/xmax" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">xmax</obj_property>
+      <obj_property name="ObjectShortName">xmax</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_2tb/uut/ymax" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ymax</obj_property>
+      <obj_property name="ObjectShortName">ymax</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_2tb/uut/zmax" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">zmax</obj_property>
+      <obj_property name="ObjectShortName">zmax</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_2tb/uut/opposite1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">opposite1</obj_property>
+      <obj_property name="ObjectShortName">opposite1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_2tb/uut/opposite2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">opposite2</obj_property>
+      <obj_property name="ObjectShortName">opposite2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_2tb/uut/tnear" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">tnear[15:0]</obj_property>
+      <obj_property name="ObjectShortName">tnear[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_2tb/uut/tfar" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">tfar[15:0]</obj_property>
+      <obj_property name="ObjectShortName">tfar[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_2tb/uut/tfar_sign_1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">tfar_sign_1[15:13]</obj_property>
+      <obj_property name="ObjectShortName">tfar_sign_1[15:13]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_2tb/uut/tfar_sign_2" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">tfar_sign_2[15:13]</obj_property>
+      <obj_property name="ObjectShortName">tfar_sign_2[15:13]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_2tb/uut/tfar_sign_3" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">tfar_sign_3[15:13]</obj_property>
+      <obj_property name="ObjectShortName">tfar_sign_3[15:13]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_2tb/uut/tfar_sign_4" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">tfar_sign_4[15:13]</obj_property>
+      <obj_property name="ObjectShortName">tfar_sign_4[15:13]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_2tb/uut/tfar_sign_5" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">tfar_sign_5[15:13]</obj_property>
+      <obj_property name="ObjectShortName">tfar_sign_5[15:13]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ray_AABB_11_2tb/uut/tfar_sign_6" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">tfar_sign_6[15:13]</obj_property>
+      <obj_property name="ObjectShortName">tfar_sign_6[15:13]</obj_property>
+   </wvobject>
+</wave_config>

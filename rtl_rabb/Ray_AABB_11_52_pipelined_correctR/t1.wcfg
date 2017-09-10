@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_52_pipelined_correctR/tb11_52_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="numeric_std" />
+            <top_module name="std_logic_1164" />
+            <top_module name="std_logic_arith" />
+            <top_module name="std_logic_unsigned" />
+            <top_module name="tb11_52" />
+            <top_module name="textio" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="49" />
+   <wvobject fp_name="/tb11_52/hit_miss" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">hit_miss</obj_property>
+      <obj_property name="ObjectShortName">hit_miss</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/uut/yes" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">yes</obj_property>
+      <obj_property name="ObjectShortName">yes</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/uut/xdir_48" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">xdir_48</obj_property>
+      <obj_property name="ObjectShortName">xdir_48</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/uut/xp1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">xp1</obj_property>
+      <obj_property name="ObjectShortName">xp1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/uut/xp1_21" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">xp1_21</obj_property>
+      <obj_property name="ObjectShortName">xp1_21</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/uut/xp2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">xp2</obj_property>
+      <obj_property name="ObjectShortName">xp2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/uut/xp2_21" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">xp2_21</obj_property>
+      <obj_property name="ObjectShortName">xp2_21</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/uut/xp2_36" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">xp2_36</obj_property>
+      <obj_property name="ObjectShortName">xp2_36</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/uut/yp1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">yp1</obj_property>
+      <obj_property name="ObjectShortName">yp1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/uut/yp1_21" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">yp1_21</obj_property>
+      <obj_property name="ObjectShortName">yp1_21</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/uut/yp2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">yp2</obj_property>
+      <obj_property name="ObjectShortName">yp2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/uut/yp2_21" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">yp2_21</obj_property>
+      <obj_property name="ObjectShortName">yp2_21</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/uut/zp1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">zp1</obj_property>
+      <obj_property name="ObjectShortName">zp1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/uut/zp1_21" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">zp1_21</obj_property>
+      <obj_property name="ObjectShortName">zp1_21</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/uut/zp2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">zp2</obj_property>
+      <obj_property name="ObjectShortName">zp2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/uut/zp2_21" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">zp2_21</obj_property>
+      <obj_property name="ObjectShortName">zp2_21</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/rst" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/uut/subX1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">subX1[65:0]</obj_property>
+      <obj_property name="ObjectShortName">subX1[65:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/uut/subX2" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">subX2[65:0]</obj_property>
+      <obj_property name="ObjectShortName">subX2[65:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/uut/subY1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">subY1[65:0]</obj_property>
+      <obj_property name="ObjectShortName">subY1[65:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/uut/subY2" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">subY2[65:0]</obj_property>
+      <obj_property name="ObjectShortName">subY2[65:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/uut/subZ1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">subZ1[65:0]</obj_property>
+      <obj_property name="ObjectShortName">subZ1[65:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/uut/subZ2" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">subZ2[65:0]</obj_property>
+      <obj_property name="ObjectShortName">subZ2[65:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/uut/divxUP_12" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">divxUP_12[65:0]</obj_property>
+      <obj_property name="ObjectShortName">divxUP_12[65:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/uut/divxUP_22" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">divxUP_22[65:0]</obj_property>
+      <obj_property name="ObjectShortName">divxUP_22[65:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/uut/subX1toMul" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">subX1toMul[65:0]</obj_property>
+      <obj_property name="ObjectShortName">subX1toMul[65:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/uut/subX2_divxUP_rndu" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">subX2_divxUP_rndu[65:0]</obj_property>
+      <obj_property name="ObjectShortName">subX2_divxUP_rndu[65:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/uut/subX2_divxUP_1_rndu" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">subX2_divxUP_1_rndu[65:0]</obj_property>
+      <obj_property name="ObjectShortName">subX2_divxUP_1_rndu[65:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/uut/txmin" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">txmin[65:0]</obj_property>
+      <obj_property name="ObjectShortName">txmin[65:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/uut/txmin_12" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">txmin_12[65:0]</obj_property>
+      <obj_property name="ObjectShortName">txmin_12[65:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/uut/tzmin" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">tzmin[65:0]</obj_property>
+      <obj_property name="ObjectShortName">tzmin[65:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/uut/tzmin_12" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">tzmin_12[65:0]</obj_property>
+      <obj_property name="ObjectShortName">tzmin_12[65:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/uut/txmax" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">txmax[65:0]</obj_property>
+      <obj_property name="ObjectShortName">txmax[65:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/uut/txmax_12" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">txmax_12[65:0]</obj_property>
+      <obj_property name="ObjectShortName">txmax_12[65:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/uut/tzmax" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">tzmax[65:0]</obj_property>
+      <obj_property name="ObjectShortName">tzmax[65:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/uut/tzmax_12" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">tzmax_12[65:0]</obj_property>
+      <obj_property name="ObjectShortName">tzmax_12[65:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/uut/xmin" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">xmin</obj_property>
+      <obj_property name="ObjectShortName">xmin</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/uut/ymin" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ymin</obj_property>
+      <obj_property name="ObjectShortName">ymin</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/uut/zmin" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">zmin</obj_property>
+      <obj_property name="ObjectShortName">zmin</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/uut/xmax" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">xmax</obj_property>
+      <obj_property name="ObjectShortName">xmax</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/uut/ymax" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ymax</obj_property>
+      <obj_property name="ObjectShortName">ymax</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/uut/zmax" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">zmax</obj_property>
+      <obj_property name="ObjectShortName">zmax</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/uut/opposite2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">opposite2</obj_property>
+      <obj_property name="ObjectShortName">opposite2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/uut/opposite1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">opposite1</obj_property>
+      <obj_property name="ObjectShortName">opposite1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/uut/tnear" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">tnear[65:0]</obj_property>
+      <obj_property name="ObjectShortName">tnear[65:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/uut/tfar" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">tfar[65:0]</obj_property>
+      <obj_property name="ObjectShortName">tfar[65:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/uut/tfar_8" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">tfar_8[65:0]</obj_property>
+      <obj_property name="ObjectShortName">tfar_8[65:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb11_52/uut/tfar_12" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">tfar_12[65:0]</obj_property>
+      <obj_property name="ObjectShortName">tfar_12[65:0]</obj_property>
+   </wvobject>
+</wave_config>

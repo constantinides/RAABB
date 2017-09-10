@@ -1,0 +1,73 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_15/Ray_AABB_11_15_tb_isim_beh.exe -prj C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_15/Ray_AABB_11_15_tb_beh.prj work.Ray_AABB_11_15_tb work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_15/less_than.v" into library work
+Analyzing Verilog file "C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_15/less_or_equal.v" into library work
+Analyzing Verilog file "C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_15/greater_than.v" into library work
+Analyzing Verilog file "C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_15/greater_or_equal.v" into library work
+Analyzing Verilog file "C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_15/Ray_AABB.v" into library work
+Analyzing Verilog file "C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_15/Ray_AABB_11_15_tb.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Parsing VHDL file "C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_15/FPSub11_15.vhdl" into library work
+Parsing VHDL file "C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_15/FPSub11_15_rndu.vhdl" into library work
+Parsing VHDL file "C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_15/FPSub11_15_rndd.vhdl" into library work
+Parsing VHDL file "C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_15/FPMul11_15_rndu.vhdl" into library work
+Parsing VHDL file "C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_15/FPMul11_15_rndd.vhdl" into library work
+Parsing VHDL file "C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_15/FPAdd11_15_rndu.vhdl" into library work
+Parsing VHDL file "C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_15/FPAdd11_15_rndd.vhdl" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module less_than
+Compiling module greater_than
+Compiling module greater_or_equal
+Compiling module less_or_equal
+Compiling module Ray_AABB_11_15
+Compiling module Ray_AABB_11_15_tb
+Compiling module glbl
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling package textio
+Compiling architecture arch of entity RightShifter_16_by_max_18_F400_uid4_rndda [rightshifter_16_by_max_18_f400_u...]
+Compiling architecture arch of entity IntAdder_19_f400_uid8_rndda [intadder_19_f400_uid8_rndda_defa...]
+Compiling architecture arch of entity LZCShifter_20_to_20_counting_32_F400_uid16_rndda [lzcshifter_20_to_20_counting_32_...]
+Compiling architecture arch of entity IntAdder_29_f400_uid20_rndda [intadder_29_f400_uid20_rndda_def...]
+Compiling architecture arch of entity FPAdd_11_15_F400_uid2_rndd [fpadd_11_15_f400_uid2_rndd_defau...]
+Compiling architecture arch of entity RightShifter_16_by_max_18_F400_uid4_rndua [rightshifter_16_by_max_18_f400_u...]
+Compiling architecture arch of entity IntAdder_19_f400_uid8_rndua [intadder_19_f400_uid8_rndua_defa...]
+Compiling architecture arch of entity LZCShifter_20_to_20_counting_32_F400_uid16_rndua [lzcshifter_20_to_20_counting_32_...]
+Compiling architecture arch of entity IntAdder_29_f400_uid20_rndua [intadder_29_f400_uid20_rndua_def...]
+Compiling architecture arch of entity FPAdd_11_15_F400_uid2_rndu [fpadd_11_15_f400_uid2_rndu_defau...]
+Compiling architecture arch of entity RightShifter_16_by_max_18_F400_uid4_rndd [rightshifter_16_by_max_18_f400_u...]
+Compiling architecture arch of entity IntAdder_19_f400_uid8_rndd [intadder_19_f400_uid8_rndd_defau...]
+Compiling architecture arch of entity LZCShifter_20_to_20_counting_32_F400_uid16_rndd [lzcshifter_20_to_20_counting_32_...]
+Compiling architecture arch of entity IntAdder_29_f400_uid20_rndd [intadder_29_f400_uid20_rndd_defa...]
+Compiling architecture arch of entity FPSub_11_15_F400_uid2_rndd [fpsub_11_15_f400_uid2_rndd_defau...]
+Compiling architecture arch of entity RightShifter_16_by_max_18_F400_uid4_rndu [rightshifter_16_by_max_18_f400_u...]
+Compiling architecture arch of entity IntAdder_19_f400_uid8_rndu [intadder_19_f400_uid8_rndu_defau...]
+Compiling architecture arch of entity LZCShifter_20_to_20_counting_32_F400_uid16_rndu [lzcshifter_20_to_20_counting_32_...]
+Compiling architecture arch of entity IntAdder_29_f400_uid20_rndu [intadder_29_f400_uid20_rndu_defa...]
+Compiling architecture arch of entity FPSub_11_15_F400_uid2_rndu [fpsub_11_15_f400_uid2_rndu_defau...]
+Compiling package numeric_std
+Compiling architecture arch of entity IntMultiplier_UsingDSP_16_16_32_unsigned_F400_uid4_rndu [intmultiplier_usingdsp_16_16_32_...]
+Compiling architecture arch of entity IntAdder_28_f400_uid10_rndu [intadder_28_f400_uid10_rndu_defa...]
+Compiling architecture arch of entity FPMult_11_15_F400_uid2_rndu [fpmult_11_15_f400_uid2_rndu_defa...]
+Compiling architecture arch of entity IntMultiplier_UsingDSP_16_16_32_unsigned_F400_uid4 [intmultiplier_usingdsp_16_16_32_...]
+Compiling architecture arch of entity IntAdder_28_f400_uid10 [intadder_28_f400_uid10_default]
+Compiling architecture arch of entity FPMult_11_15_F400_uid2_rndd [fpmult_11_15_f400_uid2_rndd_defa...]
+Compiling architecture arch of entity RightShifter_16_by_max_18_F400_uid4 [rightshifter_16_by_max_18_f400_u...]
+Compiling architecture arch of entity IntAdder_19_f400_uid8 [intadder_19_f400_uid8_default]
+Compiling architecture arch of entity LZCShifter_20_to_20_counting_32_F400_uid16 [lzcshifter_20_to_20_counting_32_...]
+Compiling architecture arch of entity IntAdder_29_f400_uid20 [intadder_29_f400_uid20_default]
+Compiling architecture arch of entity FPSub_11_15_F400_uid2 [fpsub_11_15_f400_uid2_default]
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+WARNING:Simulator - Unable to copy libPortabilityNOSH.dll to the simulation executable directory: boost::filesystem::copy_file: The system cannot find the path specified, "isim\Ray_AABB_11_15_tb_isim_beh.exe.sim\libPortability.dll".
+Compiled 68 VHDL Units
+Compiled 7 Verilog Units
+Built simulation executable C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_15/Ray_AABB_11_15_tb_isim_beh.exe
+Fuse Memory Usage: 43200 KB
+Fuse CPU Usage: 3062 ms

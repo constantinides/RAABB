@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_23/testteliko_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="numeric_std" />
+            <top_module name="std_logic_1164" />
+            <top_module name="std_logic_arith" />
+            <top_module name="std_logic_unsigned" />
+            <top_module name="testteliko" />
+            <top_module name="textio" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="27" />
+   <wvobject fp_name="/testteliko/hit_miss" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">hit_miss</obj_property>
+      <obj_property name="ObjectShortName">hit_miss</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testteliko/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testteliko/rst" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testteliko/x0" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">x0[36:0]</obj_property>
+      <obj_property name="ObjectShortName">x0[36:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testteliko/y0" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">y0[36:0]</obj_property>
+      <obj_property name="ObjectShortName">y0[36:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testteliko/z0" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">z0[36:0]</obj_property>
+      <obj_property name="ObjectShortName">z0[36:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testteliko/x1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">x1[36:0]</obj_property>
+      <obj_property name="ObjectShortName">x1[36:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testteliko/y1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">y1[36:0]</obj_property>
+      <obj_property name="ObjectShortName">y1[36:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testteliko/z1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">z1[36:0]</obj_property>
+      <obj_property name="ObjectShortName">z1[36:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testteliko/x2" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">x2[36:0]</obj_property>
+      <obj_property name="ObjectShortName">x2[36:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testteliko/y2" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">y2[36:0]</obj_property>
+      <obj_property name="ObjectShortName">y2[36:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testteliko/z2" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">z2[36:0]</obj_property>
+      <obj_property name="ObjectShortName">z2[36:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testteliko/divx" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">divx[36:0]</obj_property>
+      <obj_property name="ObjectShortName">divx[36:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testteliko/divy" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">divy[36:0]</obj_property>
+      <obj_property name="ObjectShortName">divy[36:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testteliko/divz" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">divz[36:0]</obj_property>
+      <obj_property name="ObjectShortName">divz[36:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testteliko/x" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">x</obj_property>
+      <obj_property name="ObjectShortName">x</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testteliko/y" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">y</obj_property>
+      <obj_property name="ObjectShortName">y</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testteliko/z" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">z</obj_property>
+      <obj_property name="ObjectShortName">z</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testteliko/HighPrecRes" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">HighPrecRes[0:9999]</obj_property>
+      <obj_property name="ObjectShortName">HighPrecRes[0:9999]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testteliko/direction" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">direction[0:29999]</obj_property>
+      <obj_property name="ObjectShortName">direction[0:29999]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testteliko/i" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">i[16:0]</obj_property>
+      <obj_property name="ObjectShortName">i[16:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testteliko/j" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">j[15:0]</obj_property>
+      <obj_property name="ObjectShortName">j[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testteliko/k" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">k[15:0]</obj_property>
+      <obj_property name="ObjectShortName">k[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testteliko/resHighPrec" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">resHighPrec</obj_property>
+      <obj_property name="ObjectShortName">resHighPrec</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testteliko/en" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">en[15:0]</obj_property>
+      <obj_property name="ObjectShortName">en[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testteliko/Type1error" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">Type1error[9:0]</obj_property>
+      <obj_property name="ObjectShortName">Type1error[9:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testteliko/Type2error" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">Type2error[9:0]</obj_property>
+      <obj_property name="ObjectShortName">Type2error[9:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+</wave_config>

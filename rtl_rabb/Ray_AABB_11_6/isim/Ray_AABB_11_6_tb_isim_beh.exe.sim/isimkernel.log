@@ -1,0 +1,10 @@
+Command line:
+   Ray_AABB_11_6_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  64834
+
+Tue Aug 29 21:19:53 2017
+
+
+ Elaboration Time: 1.71875 sec

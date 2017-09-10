@@ -1,0 +1,11 @@
+xst -intstyle ise -ifn "C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_23/Ray_AABB_11_23.xst" -ofn "C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_23/Ray_AABB_11_23.syr" 
+xst -intstyle ise -ifn "C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_23/Ray_AABB_11_23.xst" -ofn "C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_23/Ray_AABB_11_23.syr" 
+xst -intstyle ise -ifn "C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_23/Ray_AABB_11_23.xst" -ofn "C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_23/Ray_AABB_11_23.syr" 
+xst -intstyle ise -ifn "C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_23/Ray_AABB_11_23.xst" -ofn "C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_23/Ray_AABB_11_23.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7z020-clg484-3 Ray_AABB_11_23.ngc Ray_AABB_11_23.ngd  
+netgen -intstyle ise -insert_glbl true -w -dir netgen/translate -ofmt verilog -sim Ray_AABB_11_23.ngd Ray_AABB_11_23_translate.v 
+xst -intstyle ise -ifn "C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_23/Ray_AABB_11_23.xst" -ofn "C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_23/Ray_AABB_11_23.syr" 
+xst -intstyle ise -ifn "C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_23/Ray_AABB_11_23.xst" -ofn "C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_23/Ray_AABB_11_23.syr" 
+xst -intstyle ise -ifn "C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_23/Ray_AABB_11_23.xst" -ofn "C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_23/Ray_AABB_11_23.syr" 
+xst -intstyle ise -ifn "C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_23/Ray_AABB_11_23.xst" -ofn "C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_23/Ray_AABB_11_23.syr" 
+xst -intstyle ise -ifn "C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_23/Ray_AABB_11_23.xst" -ofn "C:/Users/George/Dropbox/Imperial_College_London/Thesis/RTL/flopoco/Ray_AABB_11_23/Ray_AABB_11_23.syr" 
